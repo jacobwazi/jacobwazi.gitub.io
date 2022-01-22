@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jacobwazi.gitub.io</id>
+    <id>http://localhost:4000</id>
     <title>Gridea</title>
-    <updated>2022-01-22T16:31:14.443Z</updated>
+    <updated>2022-01-22T17:16:34.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jacobwazi.gitub.io"/>
-    <link rel="self" href="https://jacobwazi.gitub.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://jacobwazi.gitub.io/images/avatar.png</logo>
-    <icon>https://jacobwazi.gitub.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[海龟汤·死亡游戏·奔跑/Episode 1]]></title>
+        <id>http://localhost:4000/post/hai-gui-tang-si-wang-you-xi-ben-pao-episode-1/</id>
+        <link href="http://localhost:4000/post/hai-gui-tang-si-wang-you-xi-ben-pao-episode-1/">
+        </link>
+        <updated>2022-01-22T18:13:14.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1642871733188.png" alt="" loading="lazy"></figure>
+<p>我站在白色塑胶跑道上，漫无边际的浓雾遮蔽着我的视野。被系统要求穿在身上的血衣气味刺鼻，尚在滴落且黏腻的血液丝毫不助于活动。</p>
+<p>旁边的陌生人们同我一样，茫然而紧张，等待着规则的宣判。</p>
+<p>那个熟悉的声音在耳边响起，“枪响后开始奔跑吧，十秒后鬼将会进行追杀，只有跑到终点的人才能免除死亡。”</p>
+<p>一声枪响，所有人都开始发狂的冲刺，曾经是运动员的我轻松的遥遥领先，然而身后的尖叫声此起彼伏难免干扰我的思绪。</p>
+<p>二十分钟后，场上已然不剩下多少人了。然而那个该死的鬼却依然紧追不舍，依然看不见的终点线和所剩不多的体力，似乎在宣告着我的死亡。</p>
+<p>突然，我想到了什么，好像又能继续活下去了。</p>
+]]></content>
+    </entry>
 </feed>
